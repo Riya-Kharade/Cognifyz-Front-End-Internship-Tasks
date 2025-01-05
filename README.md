@@ -43,7 +43,7 @@ Level 4:
 Task 7: Refactor the project using Bootstrap for consistency and modularity.
 Task 8: Saas [optional]
 
-# Technologies Used
+## Technologies Used
 
 HTML5 for structuring content.
 CSS3 for styling and responsive designs.
