@@ -1,0 +1,2 @@
+Note:
+For this task, I referred to Google resources because I don’t have extensive knowledge about API integration. I have a basic understanding of JSON, but I needed additional help to complete Task 5 in Level 3 successfully.

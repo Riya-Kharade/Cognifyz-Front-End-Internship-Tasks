@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        ul {
+            list-style-type: none;
+        }
+
+        .toggle {
+            cursor: pointer;
+        }
+
+        .nested {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>Simple Folding Tree Menu</h2>
+    
+    <ul>
+        <li>
+            <span class="toggle">▶ India</span>
+            <ul class="nested">
+                <li>Karnataka</li>
+                <li>Tamil Nadu</li>
+                <li>
+                    <span class="toggle">▶ Maharashtra</span>
+                    <ul class="nested">
+                        <li>Mumbai</li>
+                        <li>Pune</li>
+                        <li>
+                            <span class="toggle">▶ Navi Mumbai</span>
+                            <ul class="nested">
+                                <li>Nerul</li>
+                                <li>Vashi</li>
+                                <li>Panvel</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <script>
+        const toggles = document.querySelectorAll(".toggle");
+
+        toggles.forEach(toggle => {
+            toggle.addEventListener("click", function () {
+                const nestedList = this.nextElementSibling;
+                if (nestedList) {
+                    nestedList.style.display = nestedList.style.display === "block" ? "none" : "block";
+                }
+            });
+        });
+    </script>
+</body>
+</html>
