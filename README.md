@@ -2,7 +2,7 @@
 This repository contains tasks completed during my **Front-End Development Internship** at **Cognifyz Technologies** (December 2024 - January 2025). The internship focused on enhancing skills in HTML, CSS, JavaScript, and API integration, structured across 4 levels, with 2 tasks in each level.  
 
 ## Internship Overview  
-Cognifyz Technologies specializes in delivering cutting-edge solutions in artificial intelligence, machine learning, and data analytics. This internship provided opportunities to strengthen technical and professional skills through practical tasks and expert guidance.  
+This internship at Cognifyz Technologies focused on strengthening front-end development skills, emphasizing practical learning in HTML5, CSS3, JavaScript, and API integration. It provided hands-on experience through structured tasks while fostering a better understanding of responsive design and dynamic content handling.
 
 ## Key Highlights  
 - Learned and applied concepts of **HTML5**, **CSS3**, **JavaScript**, and **JSON**.  
