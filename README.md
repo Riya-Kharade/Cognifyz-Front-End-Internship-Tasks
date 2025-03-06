@@ -36,7 +36,7 @@ The repository is organized into four levels, with each level containing two tas
 ## Certificate of Completion  
 I successfully completed this internship and received a certificate of completion, acknowledging my learning and achievements during the program.  
 
-## Contact  
+## 📩 Contact Information
 If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
 
 📧 Email: riyasunilkharade.vit@gmail.com
