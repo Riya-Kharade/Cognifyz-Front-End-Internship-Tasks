@@ -39,5 +39,5 @@ I successfully completed this internship and received a certificate of completio
 ## 📩 Contact Information
 If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
 
-📧 Email: riyasunilkharade.vit@gmail.com
+📧 Email: riyasunilkharade.vit@gmail.com<br>
 🔗 GitHub: https://github.com/riya-kharade
