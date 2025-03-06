@@ -1,15 +1,15 @@
-# Cognifyz-Front-End-Internship-Tasks  
+# 🚀Cognifyz-Front-End-Internship-Tasks  
 This repository contains tasks completed during my **Front-End Development Internship** at **Cognifyz Technologies** (December 2024 - January 2025). The internship focused on enhancing skills in HTML, CSS, JavaScript, and API integration, structured across 4 levels, with 2 tasks in each level.  
 
-## Internship Overview  
+## 📌Internship Overview  
 This internship at Cognifyz Technologies focused on strengthening front-end development skills, emphasizing practical learning in HTML5, CSS3, JavaScript, and API integration. It provided hands-on experience through structured tasks while fostering a better understanding of responsive design and dynamic content handling.
 
-## Key Highlights  
-- Learned and applied concepts of **HTML5**, **CSS3**, **JavaScript**, and **JSON**.  
-- Developed responsive layouts using **media queries** and **Bootstrap**.  
-- Integrated public APIs for rendering dynamic content.  
+## 🌟 Key Highlights  
+✅ Learned and applied concepts of **HTML5**, **CSS3**, **JavaScript**, and **JSON**.  
+✅ Developed responsive layouts using **media queries** and **Bootstrap**.  
+✅ Integrated public APIs for rendering dynamic content.  
 
-## Task Levels and Breakdown  
+## 📂Task Levels and Breakdown  
 The repository is organized into four levels, with each level containing two tasks:  
 
 📂 Level-1  
@@ -26,14 +26,14 @@ The repository is organized into four levels, with each level containing two tas
    ├── Task-8: Implement optional features using SASS (optional).  
 
 
-## Technologies Used  
-- **HTML5**: Structuring content.  
-- **CSS3**: Styling and creating responsive designs.  
-- **JavaScript**: Adding interactivity.  
-- **JSON**: Handling dynamic data.  
-- **Bootstrap**: Component-based styling and responsive design.  
+## 🛠 Technologies Used  
+- 🏗**HTML5**: Structuring content.  
+- 🎨**CSS3**: Styling and creating responsive designs.  
+- ⚡**JavaScript**: Adding interactivity.  
+- 📜**JSON**: Handling dynamic data.  
+- 🎭**Bootstrap**: Component-based styling and responsive design.  
 
-## Certificate of Completion  
+## 🏆 Certificate of Completion  
 I successfully completed this internship and received a certificate of completion, acknowledging my learning and achievements during the program.  
 
 ## 📩 Contact Information
